@@ -1,0 +1,49 @@
+#######################################
+# Syntax Coloring Map For Piccolino_STEP
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Piccolino_STEP	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+moveTo	KEYWORD2
+move	KEYWORD2
+run	KEYWORD2
+runSpeed	KEYWORD2
+setMaxSpeed	KEYWORD2
+setAcceleration	KEYWORD2
+setSpeed	KEYWORD2
+speed	KEYWORD2
+distanceToGo	KEYWORD2
+targetPosition	KEYWORD2
+currentPosition	KEYWORD2
+setCurrentPosition	KEYWORD2
+runToPosition	KEYWORD2
+runSpeedToPosition	KEYWORD2
+runToNewPosition	KEYWORD2
+disableOutputs	KEYWORD2
+enableOutputs	KEYWORD2
+setMinPulseWidth	KEYWORD2
+setStep	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MOTOR1	LITERAL1
+MOTOR2	LITERAL1
+E1	LITERAL1
+E2	LITERAL1
+E3	LITERAL1
+E4	LITERAL1
+STEP_FULL	LITERAL1
+STEP_HALF	LITERAL1
+STEP_QUARTER	LITERAL1
+STEP_EIGHT	LITERAL1
+STEP_SIXTEEN	LITERAL1
